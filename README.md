@@ -17,7 +17,7 @@
 
 ## Deploy to heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kid-Hacker/Hypzer)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kid-Hacker/Hyzer)
 
 Heroku Buildpack
 ```bash 
